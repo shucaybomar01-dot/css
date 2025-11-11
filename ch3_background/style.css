@@ -1,0 +1,9 @@
+body {
+  background-color: blueviolet;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRqFwS_8UjNeJ5YNJdQ1c-1ehiVAWrvD-dA&s);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: cover;
+  /* background: green  url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRqFwS_8UjNeJ5YNJdQ1c-1ehiVAWrvD-dA&s); */
+ background-attachment: fixed;
+}
