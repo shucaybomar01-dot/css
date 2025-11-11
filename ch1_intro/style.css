@@ -1,0 +1,11 @@
+
+/* the boss wants the text colour to be red */
+.thefirst {
+  color: red;
+  text-align: center;
+  font-size: 60px;
+}
+* {
+  border: solid 2px blue;
+  margin: 20px;
+}
