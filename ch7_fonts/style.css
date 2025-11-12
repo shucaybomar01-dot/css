@@ -1,0 +1,23 @@
+h1 {
+   font-size: 80px;
+
+   font-family: Playwrite Hu, cursive;
+
+   
+   font-style: italic;
+
+   font-weight: bolder;
+
+   font-variant: small-caps;
+
+   line-height: 100px;
+
+   /* font: 80px normal bolder small-caps Playwrite Hu, cursive; */
+
+}
+p{
+    line-height: 1.8;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+
+}
