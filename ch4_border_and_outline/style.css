@@ -1,0 +1,35 @@
+h1 {
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(58, 58, 159);
+    border-radius: 20px;
+    border-bottom-style: dashed;
+
+    /* border: green 10px solid ; */
+    
+
+
+    outline-style: dashed;
+    outline-color: red;
+    outline-width: 10px;
+    outline-offset: 10px;
+}
+
+
+ div {
+    border-style: solid;
+
+    outline-style: dashed;
+    outline-width: 5px;
+    outline-offset: 5px;
+ }
+
+ span {
+    border-style: dashed;
+ } */
+   
+ /* * {
+    border-style: solid;
+ } */
+
+ 
