@@ -1,0 +1,10 @@
+div {
+    background-color: yellow;
+    display: inline;
+}
+
+span {
+    background-color: pink;
+    display: block;
+}
+

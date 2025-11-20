@@ -1,0 +1,35 @@
+.static{
+    border: solid 10px aqua;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+    position: static;
+}
+
+.relative {
+    border: solid 10px aqua;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+    position: relative;
+    left: 100px;
+    
+}
+
+.absolute {
+    border: solid 10px aqua;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+    position: absolute;
+    
+}
+
+.fixed {
+    border: solid 10px aqua;
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+    position: fixed;
+    
+}
