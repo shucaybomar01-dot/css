@@ -33,3 +33,14 @@
     position: fixed;
     
 }
+
+.sticky-box {
+    background: orange;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    border-radius: 8px;
+
+    position: sticky;
+    top: 0; /* Sticks to the top when reached */
+}
